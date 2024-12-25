@@ -9,11 +9,11 @@ plt.switch_backend('Agg')  # Switch to the non-interactive 'Agg' backend
 connection=mysql.connector.connect(
     charset="utf8mb4",
     connection_timeout=10,
-    database="defaultdb",
+    database="###",
     host="mysql-f3601b9-jonesjorney-bd4e.f.aivencloud.com",
-    password="AVNS_ERXe8j5gIX5yis97hnw",
+    password="###",
     port=21038,
-    user="avnadmin"
+    user="###"
 )
 
 cursor=connection.cursor()

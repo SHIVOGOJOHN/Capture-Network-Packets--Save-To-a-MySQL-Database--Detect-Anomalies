@@ -20,7 +20,7 @@ network metrics such as throughput, latency, protocol usage and also tracks uniq
 
 **Report**
 - *Note*-- The report does not include the MySQL database section you can refer to the [System Code](https://github.com/SHIVOGOJOHN/Capture-Network-Packets--Save-To-a-MySQL-Database--Detect-Anomalies/blob/main/packets.py) for this.
-- 👉 [Report]([System Code](https://github.com/SHIVOGOJOHN/Capture-Network-Packets--Save-To-a-MySQL-Database--Detect-Anomalies/blob/main/NETWORK%20MONITORING%20REPORT.pdf)
+- 👉 [Report](https://github.com/SHIVOGOJOHN/Capture-Network-Packets--Save-To-a-MySQL-Database--Detect-Anomalies/blob/main/NETWORK%20MONITORING%20REPORT.pdf)
 
   
 
